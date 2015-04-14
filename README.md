@@ -1,0 +1,2 @@
+# DragonFly.Drone
+The aim of this project is to develop a friendly unmanned air vehicle with educational purpose able to work under multi-gravity forces, so that it could be used to operate either earth or space. It is visualized to help study dynamic behavior of drones in zero gravity. This drone will include artifical vision to detect and identify items to transport them around different facilities.
